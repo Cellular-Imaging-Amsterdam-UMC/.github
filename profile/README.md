@@ -1,4 +1,4 @@
 # Cellular Imaging
 ## Advanced Light Microscopy, Flow Cytometry and Electron Microscopy Center Amsterdam
 
-![image](https://github.com/user-attachments/assets/d60b6b43-8d17-426f-9a28-cb57b22b14fd)
+<img width="2185" height="364" alt="Amsterdam-UMC_Logo_CMYK_C_300dpi (1)" src="https://github.com/user-attachments/assets/1696217b-3140-4775-9e58-063d16a88bbe" />
